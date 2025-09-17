@@ -1,0 +1,17 @@
+C:\Users\BRAYAN MORENO\ProductosSolution\Productos.Infrastructure\bin\Debug\net9.0\Productos.Infrastructure.deps.json
+C:\Users\BRAYAN MORENO\ProductosSolution\Productos.Infrastructure\bin\Debug\net9.0\Productos.Infrastructure.runtimeconfig.json
+C:\Users\BRAYAN MORENO\ProductosSolution\Productos.Infrastructure\bin\Debug\net9.0\Productos.Infrastructure.dll
+C:\Users\BRAYAN MORENO\ProductosSolution\Productos.Infrastructure\bin\Debug\net9.0\Productos.Infrastructure.pdb
+C:\Users\BRAYAN MORENO\ProductosSolution\Productos.Infrastructure\bin\Debug\net9.0\Productos.Domain.dll
+C:\Users\BRAYAN MORENO\ProductosSolution\Productos.Infrastructure\bin\Debug\net9.0\Productos.Domain.pdb
+C:\Users\BRAYAN MORENO\ProductosSolution\Productos.Infrastructure\obj\Debug\net9.0\Productos.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\BRAYAN MORENO\ProductosSolution\Productos.Infrastructure\obj\Debug\net9.0\Productos.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BRAYAN MORENO\ProductosSolution\Productos.Infrastructure\obj\Debug\net9.0\Productos.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\BRAYAN MORENO\ProductosSolution\Productos.Infrastructure\obj\Debug\net9.0\Productos.Infrastructure.AssemblyInfo.cs
+C:\Users\BRAYAN MORENO\ProductosSolution\Productos.Infrastructure\obj\Debug\net9.0\Productos.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\BRAYAN MORENO\ProductosSolution\Productos.Infrastructure\obj\Debug\net9.0\Producto.EAA51887.Up2Date
+C:\Users\BRAYAN MORENO\ProductosSolution\Productos.Infrastructure\obj\Debug\net9.0\Productos.Infrastructure.dll
+C:\Users\BRAYAN MORENO\ProductosSolution\Productos.Infrastructure\obj\Debug\net9.0\refint\Productos.Infrastructure.dll
+C:\Users\BRAYAN MORENO\ProductosSolution\Productos.Infrastructure\obj\Debug\net9.0\Productos.Infrastructure.pdb
+C:\Users\BRAYAN MORENO\ProductosSolution\Productos.Infrastructure\obj\Debug\net9.0\Productos.Infrastructure.genruntimeconfig.cache
+C:\Users\BRAYAN MORENO\ProductosSolution\Productos.Infrastructure\obj\Debug\net9.0\ref\Productos.Infrastructure.dll
